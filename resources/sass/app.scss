@@ -1,0 +1,12 @@
+@use 'variables';
+@use 'bootstrap/scss/bootstrap';
+
+// mdi icons
+@import '@mdi/font/css/materialdesignicons.css';
+
+// preloader
+@import './../css/common/preloader.css';
+
+// CP font 
+@import './../css/common/font.css';
+
