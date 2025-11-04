@@ -5,11 +5,10 @@
 @use 'bootstrap/scss/bootstrap';
 
 // mdi icons
-@import '@mdi/font/css/materialdesignicons.css';
+@import url('@mdi/font/css/materialdesignicons.css');
 
 // preloader
-@import './../css/common/preloader.css';
+@import url('../css/common/preloader.css');
 
 // CP font 
-@import './../css/common/font.css';
-
+@import url('../css/common/font.css');
